@@ -4,6 +4,8 @@ Official PyTorch implementation of **DFAN**, a deep edge-detection network for t
 
 DFAN takes a garment image as input and predicts a pixel-level edge map that can be used to isolate and digitize decorative patterns.
 
+![Uploading image.png…]()
+
 ## Repository structure
 
 ```text
