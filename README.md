@@ -55,9 +55,4 @@ For GPU acceleration, install a PyTorch build compatible with your CUDA environm
 
 If you use this repository in academic work, please cite the associated paper. 
 
-## Acknowledgements
-
-This implementation builds on ideas and utilities from the deep edge-detection community, including the DexiNed/BIPED codebase.
-
-
 
